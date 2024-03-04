@@ -1,4 +1,5 @@
 Olá, sou Lucas de Andrade! 👋
+
 Sou estudante de Química Industrial na Universidade Federal do Rio de Janeiro (UFRJ) e tenho uma paixão por tecnologia. Atualmente, estou me aprofundando no desenvolvimento de análise de dados com Python, explorando suas aplicações em diversas áreas.
 
 💻 Tecnologias e Ferramentas
