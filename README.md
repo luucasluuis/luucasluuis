@@ -2,16 +2,23 @@ Olá, sou Lucas de Andrade! 👋
 
 Sou estudante de Química Industrial na Universidade Federal do Rio de Janeiro (UFRJ) e tenho uma paixão por tecnologia. Atualmente, estou me aprofundando no desenvolvimento de análise de dados com Python, explorando suas aplicações em diversas áreas.
 
-💻 Tecnologias e Ferramentas
-Me especializo em algumas tecnologias e ferramentas e ja lidei com as seguintes até agora:
+## 💻 Tecnologias e Ferramentas
+
+Me especializo em algumas tecnologias e ferramentas:
 
 <div align="center">
+
 <!-- Linguagens de Programação -->
-Python
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!-- Bibliotecas Python -->
-Pandas
-NumPy
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23001E8A.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+</div>
 
 </div>
 
