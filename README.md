@@ -16,7 +16,7 @@ NumPy
 📊 Estatísticas do GitHub
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?luucasluuis-github&hide=handlebars&layout=compact&langs_count=10&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario-github&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=luucasluuis-github&theme=tokyonight"/>
 </div>
 :rocket: Projetos
 Projeto de Análise de Dados
