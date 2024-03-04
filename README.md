@@ -4,7 +4,7 @@ Sou estudante de Química Industrial na Universidade Federal do Rio de Janeiro (
 
 ## 💻 Tecnologias e Ferramentas
 
-Me especializo em algumas tecnologias e ferramentas:
+Tecnologias e ferramentas já estudadas:
 
 <div align="center">
 
