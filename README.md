@@ -20,9 +20,7 @@ Tecnologias e ferramentas já estudadas:
 
 </div>
 
-</div>
-
-### Desenvolvendo Atualmente
+## Desenvolvendo Atualmente
 
 Atualmente, estou focado em aprimorar minhas habilidades em:
 
