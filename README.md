@@ -10,8 +10,9 @@ Python
 
 <!-- Bibliotecas Python -->
 Pandas
-
 NumPy
+
+</div>
 
 ### Desenvolvendo Atualmente
 
@@ -23,8 +24,6 @@ Atualmente, estou focado em aprimorar minhas habilidades em:
 
 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
 
-
-</div>
 📊 Estatísticas do GitHub
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucasluuis&hide=handlebars&layout=compact&langs_count=10&theme=tokyonight"/>
