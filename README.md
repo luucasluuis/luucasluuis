@@ -10,6 +10,7 @@ Python
 
 <!-- Bibliotecas Python -->
 Pandas
+
 NumPy
 
 </div>
@@ -26,7 +27,7 @@ Como parte do meu desenvolvimento em análise de dados, estou trabalhando em um 
 Estou sempre aberto a colaborações e feedback! Se você quiser entrar em contato ou saber mais sobre meus projetos, sinta-se à vontade para me contatar:
 
 <div align="center">
-  <a href="mailto:seuemail@example.com">
+  <a href="mailto:lucaslca@eq.ufrj.br@example.com">
     <img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
