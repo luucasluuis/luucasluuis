@@ -20,9 +20,7 @@ Tecnologias e ferramentas já estudadas:
 
 </div>
 
-## Desenvolvendo Atualmente
-
-Atualmente, estou focado em aprimorar minhas habilidades em:
+Desenvolvendo Atualmente:
 
 - **Machine Learning**: Estou estudando algoritmos de machine learning e aplicando-os em projetos práticos para entender melhor seu funcionamento e suas aplicações.
 - **Visualização de Dados**: Estou explorando diferentes técnicas de visualização de dados para comunicar insights de forma eficaz e impactante.
