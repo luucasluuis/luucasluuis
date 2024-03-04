@@ -13,6 +13,17 @@ Pandas
 
 NumPy
 
+### Desenvolvendo Atualmente
+
+Atualmente, estou focado em aprimorar minhas habilidades em:
+
+- **Machine Learning**: Estou estudando algoritmos de machine learning e aplicando-os em projetos práticos para entender melhor seu funcionamento e suas aplicações.
+- **Visualização de Dados**: Estou explorando diferentes técnicas de visualização de dados para comunicar insights de forma eficaz e impactante.
+- **Desenvolvimento Web**: Estou aprendendo frameworks de desenvolvimento web, como Django e Flask, para expandir minhas habilidades para além da análise de dados.
+
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
+
+
 </div>
 📊 Estatísticas do GitHub
 <div align="center">
